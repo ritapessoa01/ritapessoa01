@@ -50,6 +50,7 @@ I completed the **SheCodes Bootcamp** (2024–2025), where I built multiple proj
 ## 🔨 Currently Working On
 
 - Improved portfolio website
+- Finance tracker
 
 ---
 
