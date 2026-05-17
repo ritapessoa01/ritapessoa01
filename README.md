@@ -73,7 +73,7 @@ I completed the **SheCodes Bootcamp** (2024–2025), where I built multiple proj
 
 - 🎓 SheCodes Bootcamp graduate (Front-End Development, 2024–2025)
 - 🧪 Background in Chemistry which gave me an analytical, detail-oriented approach to problem-solving
-- 🎮 Into gaming, singing and reading
+- 🎮 Into gaming, singing, reading and cooking
 - 📍 Based in Caldas da Rainha, Portugal - open to remote roles and opportunities in the Oeste region
 - 🌍 Portuguese (native) · English (fluent)
 - 🔍 Open to junior developer roles and internships
